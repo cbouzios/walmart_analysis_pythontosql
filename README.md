@@ -7,10 +7,10 @@ An end-to-end data analysis project that extracts actionable business insights f
 This repository contains a complete data analysis workflow, from raw data ingestion through cleaning, transformation, database loading, and advanced SQL analysis. The goal is to identify patterns in customer behavior, payment preferences, and product performance that can inform branch-level operational and inventory decisions.
 
 ### Database Loading and Verification
-![Database Load](images/database_load_and_preview.jpg)
+![Database Load](images/database_load_and_preview.png)
 
 ### Identifying Top Categories via Window Functions
-![Top Category](images/top_category_per_branch.jpg)
+![Top Category](images/top_category_per_branch.png)
 
 ### Analyzing Payment Preferences via CTEs
 ![Payment Methods](images/preferred_payment_per_branch.png)
